@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Caesar+Dressing&family=Kumbh+Sans:wght@400;500;700&display=swap');
+
+body{
+    font-family: 'Kumbh Sans', sans-serif;
+}
+
+.list{
+    background-color: red;
+    padding: 10px;
+}
